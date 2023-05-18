@@ -1,7 +1,7 @@
-export PYTHONPATH=$PYTHONPATH:./DiffusionXY
+export PYTHONPATH=$PYTHONPATH:./AR-Diffusion
 
-# FILE_NAME=cnndm
-# DATA_NAME=cnn_dm
+FILE_NAME=cnndm
+DATA_NAME=cnn_dm
 STEP=620000
 NUM=50
 
@@ -34,6 +34,7 @@ done
 
 
 # XSUM
+# source activate rouge
 # files2rouge ./data/xsum/gen_.txt ./data/xsum/test.tgt
 
 
