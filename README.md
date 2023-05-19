@@ -28,7 +28,7 @@ The text generation benchmarks we use is well-known and widely used, including *
 
 **Model**
 
-We have released the checkpoint of the AR-Diffusion [here]((https://drive.google.com/drive/folders/1woaccD2mdq7Vzrs60-gBqFoydFdHlMvz?usp=share_link)) for each dataset (6-layer encoder, and 6-layer decoder):
+We have released the checkpoint of the AR-Diffusion [here](https://drive.google.com/drive/folders/1woaccD2mdq7Vzrs60-gBqFoydFdHlMvz?usp=share_link) for each dataset (6-layer encoder, and 6-layer decoder):
 
 ## 💡 Training
 
